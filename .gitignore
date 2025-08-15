@@ -1,0 +1,23 @@
+@"
+# Go
+backend/bin/
+backend/*.exe
+backend/*.test
+backend/coverage.out
+
+# Node / Next.js
+node_modules/
+frontend/.next/
+frontend/.turbo/
+frontend/.vercel/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding utf8 -NoNewline

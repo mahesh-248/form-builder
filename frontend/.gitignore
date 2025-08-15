@@ -1,0 +1,7 @@
+node_modules/
+frontend/.next/
+frontend/.turbo/
+frontend/.vercel/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
