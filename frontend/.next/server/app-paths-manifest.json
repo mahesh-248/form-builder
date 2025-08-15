@@ -1,9 +1,0 @@
-{
-  "/f/[token]/page": "app/f/[token]/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/forms/[id]/analytics/page": "app/forms/[id]/analytics/page.js",
-  "/forms/[id]/edit/page": "app/forms/[id]/edit/page.js",
-  "/forms/new/page": "app/forms/new/page.js",
-  "/forms/page": "app/forms/page.js",
-  "/page": "app/page.js"
-}
